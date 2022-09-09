@@ -7,6 +7,8 @@ db.sqlite3
 # Front end
 .pnp.js
 
+frontend/node_modules
+
 # testing
 frontend/coverage
 
